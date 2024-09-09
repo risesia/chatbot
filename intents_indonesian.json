@@ -1,0 +1,107 @@
+{
+  "intents": [
+    {
+      "tag": "perkenalan",
+      "patterns": [
+        "Hai",
+        "Apa kabar?",
+        "Apa ada orang?",
+        "Halo"
+      ],
+      "responses": [
+        "Hai :-)",
+        "Halo, terima kasih sudah datang",
+        "Hai, ada yang bisa saya bantu?",
+        "Hai, bisakah saya membantu anda?"
+      ]
+    },
+    {
+      "tag": "penutup",
+      "patterns": ["Selamat tinggal", "Jumpa lagi"],
+      "responses": [
+        "Sampai berjuma kembali, terima kasih sudah berkunjung",
+        "Semoga harimu baik",
+        "Selamat tinggal! Datang kembali."
+      ]
+    },
+    {
+      "tag": "terima kasih",
+      "patterns": ["Terima kasih", "Sangat membantu", "Terima kasih banyak!"],
+      "responses": ["Senang membantu!", "Sama-sama"]
+    },
+    {
+      "tag": "definisi_genetika",
+      "patterns": [
+        "Apa itu genetika?",
+        "Jelaskan tentang genetika",
+        "Genetika itu apa?",
+        "Bisa beri tahu apa arti genetika?",
+        "Apa maksud dari genetika?",
+        "Genetika artinya apa?",
+        "Genetika itu apa sih?"
+      ],
+      "responses": [
+        "Genetika adalah cabang biologi yang mempelajari bagaimana sifat-sifat makhluk hidup diturunkan dari satu generasi ke generasi berikutnya.",
+        "Genetika merupakan ilmu yang mempelajari pewarisan sifat dan variasi organisme yang disebabkan oleh gen.",
+        "Secara sederhana, genetika adalah studi tentang bagaimana karakteristik fisik dan biologis diwariskan dari orang tua kepada keturunannya.",
+        "Genetika adalah bidang ilmu yang fokus pada pemahaman gen dan bagaimana gen memengaruhi sifat-sifat organisme.",
+        "Ilmu genetika menjelaskan cara gen berperan dalam pewarisan sifat seperti warna rambut, warna mata, dan ciri-ciri fisik lainnya."
+      ]
+    },
+    {
+      "tag": "fungsi_kloroplas",
+      "patterns": [
+        "Apa fungsi kloroplas?",
+        "Kloroplas berfungsi untuk apa?",
+        "Bisa jelaskan apa fungsi kloroplas?",
+        "Apa kegunaan kloroplas?",
+        "Kloroplas itu gunanya apa?"
+      ],
+      "responses": [
+        "Kloroplas berfungsi untuk melakukan fotosintesis, yaitu proses yang mengubah energi matahari menjadi energi kimia dalam bentuk glukosa.",
+        "Fungsi utama kloroplas adalah untuk menangkap energi matahari dan mengubahnya menjadi energi yang dapat digunakan oleh tumbuhan melalui fotosintesis.",
+        "Kloroplas berperan dalam fotosintesis, proses penting yang memungkinkan tumbuhan membuat makanan sendiri dari cahaya matahari, air, dan karbon dioksida.",
+        "Dalam tumbuhan, kloroplas berfungsi untuk menghasilkan energi melalui fotosintesis, yang kemudian digunakan untuk pertumbuhan dan perkembangan tumbuhan.",
+        "Kloroplas adalah organel dalam sel tumbuhan yang memungkinkan terjadinya fotosintesis, proses penting dalam produksi energi bagi tumbuhan."
+      ]
+    },
+    {
+      "tag": "definisi_sel_tumbuhan",
+      "patterns": [
+        "Apa itu sel tumbuhan?",
+        "Jelaskan tentang sel tumbuhan",
+        "Sel tumbuhan itu apa?",
+        "Bisa beri tahu apa itu sel tumbuhan?",
+        "Apa maksud dari sel tumbuhan?",
+        "Sel tumbuhan artinya apa?",
+        "Sel tumbuhan itu apa sih?"
+      ],
+      "responses": [
+        "Sel tumbuhan adalah unit dasar kehidupan pada tumbuhan yang memiliki dinding sel, kloroplas, dan vakuola besar yang membedakannya dari sel hewan.",
+        "Sel tumbuhan terdiri dari membran sel, dinding sel, kloroplas, sitoplasma, inti sel, dan vakuola besar.",
+        "Sel tumbuhan adalah sel eukariotik yang memiliki dinding sel yang kuat, kloroplas untuk fotosintesis, dan vakuola besar untuk penyimpanan air dan zat lainnya.",
+        "Sel tumbuhan adalah komponen struktural dasar tumbuhan, yang memiliki ciri khas seperti dinding sel dan kloroplas.",
+        "Sel tumbuhan adalah struktur dasar kehidupan pada tumbuhan, yang memungkinkan mereka untuk melakukan fotosintesis dan proses-proses penting lainnya."
+      ]
+    },
+    {
+      "tag": "definisi_ekosistem",
+      "patterns": [
+        "Apa itu ekosistem?",
+        "Jelaskan tentang ekosistem",
+        "Ekosistem itu apa?",
+        "Bisa beri tahu apa arti ekosistem?",
+        "Apa maksud dari ekosistem?",
+        "Ekosistem artinya apa?",
+        "Ekosistem itu apa sih?"
+      ],
+      "responses": [
+        "Ekosistem adalah komunitas makhluk hidup yang saling berinteraksi dengan lingkungan fisiknya dalam satu kesatuan.",
+        "Ekosistem terdiri dari komponen biotik seperti tumbuhan dan hewan, serta komponen abiotik seperti tanah, air, dan udara.",
+        "Ekosistem merupakan sistem yang terbentuk oleh interaksi antara makhluk hidup dengan lingkungannya, termasuk faktor-faktor biotik dan abiotik.",
+        "Ekosistem adalah sebuah jaringan kompleks di mana organisme hidup saling berinteraksi dengan lingkungan mereka untuk bertahan hidup.",
+        "Ekosistem adalah kesatuan antara makhluk hidup dan lingkungan tempat mereka tinggal yang berinteraksi satu sama lain secara dinamis."
+      ]
+    }
+  ]
+}

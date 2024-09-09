@@ -1,0 +1,121 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag": "definition_genetics",
+      "patterns": [
+        "What is genetics?",
+        "Explain genetics",
+        "What does genetics mean?",
+        "Can you tell me what genetics is?",
+        "What is the meaning of genetics?",
+        "What does genetics refer to?",
+        "What exactly is genetics?"
+      ],
+      "responses": [
+        "Genetics is a branch of biology that studies how the traits of living organisms are passed from one generation to the next.",
+        "Genetics is the science that studies inheritance and variation in organisms caused by genes.",
+        "Simply put, genetics is the study of how physical and biological characteristics are inherited from parents to their offspring.",
+        "Genetics is the field of science that focuses on understanding genes and how they affect an organism's traits.",
+        "Genetics explains how genes play a role in the inheritance of traits such as hair color, eye color, and other physical characteristics."
+      ]
+    },
+    {
+      "tag": "function_chloroplast",
+      "patterns": [
+        "What is the function of chloroplasts?",
+        "What do chloroplasts do?",
+        "Can you explain the function of chloroplasts?",
+        "What is the use of chloroplasts?",
+        "What are chloroplasts used for?"
+      ],
+      "responses": [
+        "Chloroplasts function to carry out photosynthesis, a process that converts sunlight into chemical energy in the form of glucose.",
+        "The primary function of chloroplasts is to capture solar energy and convert it into usable energy for plants through photosynthesis.",
+        "Chloroplasts play a role in photosynthesis, a vital process that allows plants to produce their own food from sunlight, water, and carbon dioxide.",
+        "In plants, chloroplasts generate energy through photosynthesis, which is then used for growth and development.",
+        "Chloroplasts are organelles in plant cells that allow photosynthesis to occur, a critical process in producing energy for the plant."
+      ]
+    },
+    {
+      "tag": "definition_plant_cell",
+      "patterns": [
+        "What is a plant cell?",
+        "Explain plant cells",
+        "What is a plant cell?",
+        "Can you tell me what a plant cell is?",
+        "What is the meaning of a plant cell?",
+        "What does a plant cell mean?",
+        "What exactly is a plant cell?"
+      ],
+      "responses": [
+        "A plant cell is the basic unit of life in plants, characterized by having a cell wall, chloroplasts, and a large vacuole, which distinguishes it from animal cells.",
+        "A plant cell consists of a cell membrane, cell wall, chloroplasts, cytoplasm, nucleus, and a large vacuole.",
+        "A plant cell is a eukaryotic cell that has a strong cell wall, chloroplasts for photosynthesis, and a large vacuole for storing water and other substances.",
+        "A plant cell is the basic structural component of plants, featuring characteristics such as a cell wall and chloroplasts.",
+        "A plant cell is the basic building block of life in plants, allowing them to perform photosynthesis and other essential processes."
+      ]
+    },
+    {
+      "tag": "definition_ecosystem",
+      "patterns": [
+        "What is an ecosystem?",
+        "Explain ecosystems",
+        "What is an ecosystem?",
+        "Can you tell me what an ecosystem is?",
+        "What is the meaning of an ecosystem?",
+        "What does an ecosystem mean?",
+        "What exactly is an ecosystem?"
+      ],
+      "responses": [
+        "An ecosystem is a community of living organisms interacting with their physical environment as a unified whole.",
+        "An ecosystem consists of biotic components such as plants and animals, as well as abiotic components like soil, water, and air.",
+        "An ecosystem is a system formed by the interaction between living organisms and their environment, including both biotic and abiotic factors.",
+        "An ecosystem is a complex network where living organisms interact with their environment to survive.",
+        "An ecosystem is the unity of living organisms and the environment they inhabit, interacting dynamically with one another."
+      ]
+    }
+  ]
+}

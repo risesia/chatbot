@@ -1,0 +1,90 @@
+{
+    "intents": [
+      {
+        "tag": "perkenalan",
+        "patterns": [
+          "Hai",
+          "Halo",
+          "Apa kabar?",
+          "Ada yang bisa bantu?"
+        ],
+        "responses": [
+          "Hai! Bagaimana kabarmu?",
+          "Halo, selamat datang di sesi belajar Biologi!",
+          "Hai, apa yang ingin kamu pelajari hari ini?"
+        ]
+      },
+      {
+        "tag": "penutup",
+        "patterns": [
+          "Terima kasih",
+          "Sampai jumpa",
+          "Selamat tinggal",
+          "Jumpa lagi"
+        ],
+        "responses": [
+          "Sama-sama, semoga pembelajaranmu bermanfaat!",
+          "Sampai jumpa kembali, semoga harimu menyenangkan!",
+          "Selamat tinggal! Jangan lupa belajar lagi ya."
+        ]
+      },
+      {
+        "tag": "sel tumbuhan",
+        "patterns": [
+          "Apa itu sel tumbuhan?",
+          "Jelaskan sel tumbuhan",
+          "Sel tumbuhan terdiri dari apa saja?"
+        ],
+        "responses": [
+          "Sel tumbuhan adalah unit dasar kehidupan pada tumbuhan yang memiliki dinding sel, kloroplas, dan vakuola besar. Kloroplas berfungsi untuk melakukan fotosintesis.",
+          "Sel tumbuhan terdiri dari dinding sel, membran sel, sitoplasma, inti sel, kloroplas, dan vakuola besar.",
+        ]
+      },
+      {
+        "tag": "sistem pencernaan",
+        "patterns": [
+          "Bagaimana proses pencernaan?",
+          "Apa itu sistem pencernaan?",
+          "Bagian-bagian sistem pencernaan manusia",
+          "Fungsi lambung dalam pencernaan?"
+        ],
+        "responses": [
+          "Proses pencernaan adalah bagaimana tubuh memecah makanan menjadi nutrisi yang dapat diserap. Ini melibatkan organ-organ seperti mulut, kerongkongan, lambung, usus halus, dan usus besar.",
+          "Sistem pencernaan adalah kumpulan organ yang bekerja untuk mencerna makanan, menyerap nutrisi, dan membuang sisa-sisa makanan.",
+          "Sistem pencernaan manusia terdiri dari mulut, kerongkongan, lambung, usus halus, usus besar, hati, dan pankreas.",
+          "Lambung berfungsi untuk mencampur makanan dengan asam lambung dan enzim untuk memecah protein menjadi molekul yang lebih kecil."
+        ]
+      },
+      {
+        "tag": "ekosistem",
+        "patterns": [
+          "Apa itu ekosistem?",
+          "Jelaskan tentang ekosistem",
+          "Jenis-jenis ekosistem",
+          "Apa peran produsen dalam ekosistem?"
+        ],
+        "responses": [
+          "Ekosistem adalah komunitas makhluk hidup yang saling berinteraksi dengan lingkungan fisiknya.",
+          "Ekosistem terdiri dari berbagai komponen biotik seperti tumbuhan, hewan, dan mikroorganisme, serta komponen abiotik seperti tanah, air, dan udara.",
+          "Jenis-jenis ekosistem termasuk ekosistem darat seperti hutan dan padang rumput, serta ekosistem air seperti sungai, danau, dan laut.",
+          "Produsen dalam ekosistem, seperti tumbuhan, berperan dalam menghasilkan energi melalui fotosintesis yang akan menjadi sumber energi bagi konsumen lain."
+        ]
+      },
+      {
+        "tag": "genetika",
+        "patterns": [
+          "Apa itu genetika?",
+          "Jelaskan hukum Mendel",
+          "Apa fungsi DNA?",
+          "Bagaimana pewarisan sifat terjadi?"
+        ],
+        "responses": [
+          "Genetika adalah cabang biologi yang mempelajari bagaimana sifat-sifat diturunkan dari satu generasi ke generasi berikutnya.",
+          "Hukum Mendel adalah prinsip dasar pewarisan sifat, yang menyatakan bahwa setiap individu mewarisi dua alel untuk setiap sifat, satu dari setiap orang tua.",
+          "DNA adalah molekul yang menyimpan informasi genetik yang mengontrol semua aktivitas sel.",
+          "Pewarisan sifat terjadi ketika gen dari kedua orang tua diturunkan kepada keturunannya melalui gamet, yang kemudian menentukan karakteristik fisik dan genetik individu tersebut."
+        ]
+      }
+    ]
+  }
+  
